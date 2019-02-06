@@ -1,0 +1,66 @@
+===== HYPERPARAMETERS =====
+batch_size= 256
+epochs= 5
+learning_rate= 0.001
+==============================
+Epoch 1, 12% 	 train_loss: 0.16 took: 88.29s
+Epoch 1, 25% 	 train_loss: 0.07 took: 32.97s
+Epoch 1, 37% 	 train_loss: 0.24 took: 31.92s
+Epoch 1, 50% 	 train_loss: 0.07 took: 32.35s
+Epoch 1, 62% 	 train_loss: 0.04 took: 31.99s
+Epoch 1, 75% 	 train_loss: 0.17 took: 32.05s
+Epoch 1, 87% 	 train_loss: 0.55 took: 31.77s
+Epoch 1, 100% 	 train_loss: 0.41 took: 31.77s
+Training loss = 0.14
+Validation loss = 0.29
+Test loss = 0.18
+Test Accuracy = 0.92
+Epoch 2, 12% 	 train_loss: 0.05 took: 41.42s
+Epoch 2, 25% 	 train_loss: 0.22 took: 34.58s
+Epoch 2, 37% 	 train_loss: 0.38 took: 32.19s
+Epoch 2, 50% 	 train_loss: 0.09 took: 31.74s
+Epoch 2, 62% 	 train_loss: 0.16 took: 31.96s
+Epoch 2, 75% 	 train_loss: 0.04 took: 36.76s
+Epoch 2, 87% 	 train_loss: 0.17 took: 32.14s
+Epoch 2, 100% 	 train_loss: 0.26 took: 30.98s
+Training loss = 0.11
+Validation loss = 0.26
+Test loss = 0.26
+Test Accuracy = 0.90
+Epoch 3, 12% 	 train_loss: 0.37 took: 31.21s
+Epoch 3, 25% 	 train_loss: 0.09 took: 31.81s
+Epoch 3, 37% 	 train_loss: 0.07 took: 31.52s
+Epoch 3, 50% 	 train_loss: 0.26 took: 35.49s
+Epoch 3, 62% 	 train_loss: 0.16 took: 31.70s
+Epoch 3, 75% 	 train_loss: 0.13 took: 32.62s
+Epoch 3, 87% 	 train_loss: 0.32 took: 32.33s
+Epoch 3, 100% 	 train_loss: 0.04 took: 30.96s
+Training loss = 0.12
+Validation loss = 0.19
+Test loss = 0.30
+Test Accuracy = 0.88
+Epoch 4, 12% 	 train_loss: 0.10 took: 31.68s
+Epoch 4, 25% 	 train_loss: 0.12 took: 34.21s
+Epoch 4, 37% 	 train_loss: 0.11 took: 31.04s
+Epoch 4, 50% 	 train_loss: 0.14 took: 30.62s
+Epoch 4, 62% 	 train_loss: 0.32 took: 33.44s
+Epoch 4, 75% 	 train_loss: 0.13 took: 30.88s
+Epoch 4, 87% 	 train_loss: 0.12 took: 30.80s
+Epoch 4, 100% 	 train_loss: 0.12 took: 33.41s
+Training loss = 0.10
+Validation loss = 0.21
+Test loss = 0.17
+Test Accuracy = 0.96
+Epoch 5, 12% 	 train_loss: 0.13 took: 32.36s
+Epoch 5, 25% 	 train_loss: 0.07 took: 33.48s
+Epoch 5, 37% 	 train_loss: 0.24 took: 30.72s
+Epoch 5, 50% 	 train_loss: 0.09 took: 31.08s
+Epoch 5, 62% 	 train_loss: 0.07 took: 30.16s
+Epoch 5, 75% 	 train_loss: 0.39 took: 31.02s
+Epoch 5, 87% 	 train_loss: 0.12 took: 30.15s
+Epoch 5, 100% 	 train_loss: 0.22 took: 30.40s
+Training loss = 0.11
+Validation loss = 0.29
+Test loss = 0.30
+Test Accuracy = 0.88
+Training finished, took 2022.48s
